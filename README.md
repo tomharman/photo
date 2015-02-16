@@ -1,2 +1,1 @@
-# photo
-test
+A static html page to sell my Canon 7D and related equipment
